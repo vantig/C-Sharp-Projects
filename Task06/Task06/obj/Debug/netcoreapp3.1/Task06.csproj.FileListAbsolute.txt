@@ -1,0 +1,9 @@
+E:\C# Projects\Task06\Task06\bin\Debug\netcoreapp3.1\Task06.deps.json
+E:\C# Projects\Task06\Task06\bin\Debug\netcoreapp3.1\Task06.dll
+E:\C# Projects\Task06\Task06\bin\Debug\netcoreapp3.1\Task06.pdb
+E:\C# Projects\Task06\Task06\obj\Debug\netcoreapp3.1\Task06.csprojAssemblyReference.cache
+E:\C# Projects\Task06\Task06\obj\Debug\netcoreapp3.1\Task06.AssemblyInfoInputs.cache
+E:\C# Projects\Task06\Task06\obj\Debug\netcoreapp3.1\Task06.AssemblyInfo.cs
+E:\C# Projects\Task06\Task06\obj\Debug\netcoreapp3.1\Task06.csproj.CoreCompileInputs.cache
+E:\C# Projects\Task06\Task06\obj\Debug\netcoreapp3.1\Task06.dll
+E:\C# Projects\Task06\Task06\obj\Debug\netcoreapp3.1\Task06.pdb
