@@ -1,0 +1,9 @@
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\bin\Debug\netcoreapp3.1\Task07.deps.json
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\bin\Debug\netcoreapp3.1\Task07.dll
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\bin\Debug\netcoreapp3.1\Task07.pdb
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\obj\Debug\netcoreapp3.1\Task07.csprojAssemblyReference.cache
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\obj\Debug\netcoreapp3.1\Task07.AssemblyInfoInputs.cache
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\obj\Debug\netcoreapp3.1\Task07.AssemblyInfo.cs
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\obj\Debug\netcoreapp3.1\Task07.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\obj\Debug\netcoreapp3.1\Task07.dll
+C:\Users\Diana\Desktop\C-Sharp-Projects\Task7\Task07\obj\Debug\netcoreapp3.1\Task07.pdb
