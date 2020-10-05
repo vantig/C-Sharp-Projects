@@ -27,7 +27,7 @@ namespace UnitTestProject
         public void IsVowel_A_Returned_true()
         {
             var expected = true;
-            Assert.AreEqual(expected, IsVowel("A"));
+            Assert.AreEqual(expected, IsVowel("A")); 
 
         }
     }
