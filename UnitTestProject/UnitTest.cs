@@ -8,7 +8,7 @@ namespace UnitTestProject
         [TestMethod]
         public void PlayHeadsOrTails_50()
         {
-            string temp = "", num1 = "", num2 = "";
+            string temp = "", num1 = "", num2 ;
             var str = Task10.Task.PlayHeadsOrTails(50);
             foreach (var VARIABLE in str)
             {
@@ -41,10 +41,29 @@ namespace UnitTestProject
             var expected = true;
             Assert.AreEqual(expected, Task10.Task.IsPrimeNumber(5));
         }
+        [TestMethod]
         public void IsPrimeNumber_4_Returned_false()
         {
             var expected = false;
             Assert.AreEqual(expected, Task10.Task.IsPrimeNumber(4));
+        }
+        [TestMethod]
+        public void CalculateFactorial_5_Returned_120()
+        {
+            var expected = 120;
+            Assert.AreEqual(expected, Task10.Task.CalculateFactorial(5));
+        }
+        [TestMethod]
+        public void IsPerfectNumber_28_Returned_true()
+        {
+            var expected = true;
+            Assert.AreEqual(expected, Task10.Task.IsPerfectNumber(28));
+        }
+        [TestMethod]
+        public void IsPerfectNumber_27_Returned_false()
+        {
+            var expected = false;
+            Assert.AreEqual(expected, Task10.Task.IsPerfectNumber(27));
         }
     }
 }

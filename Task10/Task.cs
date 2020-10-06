@@ -70,5 +70,28 @@ namespace Task10
 
             return true;
         }
+        public static int CalculateFactorial(int number)
+        {
+            if (number==0)
+            {
+                return 1;
+            }
+
+            return number * CalculateFactorial(number - 1);
+        }
+
+        public static bool IsPerfectNumber(int number)
+        {
+            int sumOfDividers = 0;
+            for (int i = 1; i < number; i++)
+            {
+                if (number%i==0)
+                {
+                    sumOfDividers += i;
+                }
+            }
+
+            return number == sumOfDividers;
+        }
     }
 }
